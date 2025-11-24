@@ -1,0 +1,5 @@
+Para ejecutar este proyecto:
+
+1. Importar init.sql a PhpMyadmin
+2. Crear carpeta pgd2 en htdocs (XAMPP) o www (WAMP)
+3. Extraer todo el contenido de esta raíz a la carpeta pgd2
